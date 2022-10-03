@@ -8,3 +8,7 @@ server.use(middlewares);
 server.use(router);
 
 server.listen(port);
+//ports:
+//https://ajioapp.herokuapp.com/posts
+//https://ajioapp.herokuapp.com/users
+//https://ajioapp.herokuapp.com/cart
