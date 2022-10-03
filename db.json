@@ -1,0 +1,207 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "pname": "STYLOBUG",
+      "pdescription": " Floral Print Tiered Maxi Dress",
+      "gender": "KIDS",
+      "type": "GIRLS",
+      "size": [
+        "6-8Y",
+        "8-10Y"
+      ],
+      "price": "899",
+      "quantity": "100",
+      "img": "https://assets.ajio.com/medias/sys_master/root/20220511/f5Te/627b7efcaeb26921af668ae4/-473Wx593H-462856330-blue-MODEL.jpg"
+    },
+    {
+      "id": 3,
+      "pname": "NAUGHTY NINOS ",
+      "pdescription": "Embroidered A-line Dress with Patch Pocket",
+      "gender": "KIDS",
+      "type": "GIRLS",
+      "size": [
+        "2-4Y",
+        "4-6Y",
+        "6-8Y"
+      ],
+      "price": "599",
+      "quantity": "100",
+      "img": "https://assets.ajio.com/medias/sys_master/root/20220621/muQJ/62b1b256aeb26921af3c40a4/-473Wx593H-461221264-blue-MODEL.jpg"
+    },
+    {
+      "id": 4,
+      "pname": "CUTECUMBER ",
+      "pdescription": "Embellished Shirt Dress",
+      "gender": "KIDS",
+      "type": "GIRLS",
+      "size": [
+        "2-4Y",
+        "4-6Y"
+      ],
+      "price": "1370",
+      "quantity": "100",
+      "img": "https://assets.ajio.com/medias/sys_master/root/20211101/lCxP/6180250aaeb2690110b5b3f1/cutecumber_pink_embellished_shirt_dress.jpg"
+    },
+    {
+      "id": 5,
+      "pname": "KB TEAM SPIRIT ",
+      "pdescription": "Novelty Print Shirt with Patch Pocket",
+      "gender": "KIDS",
+      "type": "BOYS",
+      "size": [
+        "2-4Y",
+        "4-6Y"
+      ],
+      "price": "180",
+      "quantity": "10",
+      "img": "https://assets.ajio.com/medias/sys_master/root/20210903/NjYB/613132cc7cdb8cb8241488e4/kb_team_spirit_blue_novelty_print_shirt_with_patch_pocket.jpg"
+    },
+    {
+      "id": 10,
+      "pname": "PSPEACHES ",
+      "pdescription": "Floral Print Tiered Skirt",
+      "gender": "KIDS",
+      "type": "GIRLS",
+      "size": [
+        "2-4Y",
+        "4-6Y",
+        "6-8Y"
+      ],
+      "price": "880",
+      "quantity": "5",
+      "img": "https://assets.ajio.com/medias/sys_master/root/20220812/vGAx/62f58d18f997dd03e2418a66/-473Wx593H-464109124-yellow-MODEL.jpg"
+    },
+    {
+      "id": 11,
+      "pname": "DENNISLINGO PREMIUM ATTIRE ",
+      "pdescription": "Checked Slim Fit Shirt",
+      "gender": "MEN",
+      "type": "shirts",
+      "size": [
+        "S",
+        "M",
+        "L"
+      ],
+      "price": "700",
+      "quantity": "50",
+      "img": "https://assets.ajio.com/medias/sys_master/root/h1d/h2e/15885260521502/-473Wx593H-461119105-blue-MODEL.jpg"
+    },
+    {
+      "id": 12,
+      "pname": "U.S. POLO ASSN. ",
+      "pdescription": "Washed Slim Fit Shirt with Flap Pockets",
+      "gender": "MEN",
+      "type": "shirts",
+      "size": [
+        "L",
+        "XL"
+      ],
+      "price": "1325",
+      "quantity": "20",
+      "img": "https://assets.ajio.com/medias/sys_master/root/20220715/MvuR/62d17dbaf997dd03e2d726bd/-473Wx593H-469191750-charcoal-MODEL.jpg"
+    },
+    {
+      "id": 13,
+      "pname": "DNMX",
+      "pdescription": " Checked Slim Fit Shirt with Patch Pocket",
+      "gender": "MEN",
+      "type": "shirts",
+      "size": [
+        "S",
+        "L",
+        "XXL"
+      ],
+      "price": "1169",
+      "quantity": "30",
+      "img": "https://assets.ajio.com/medias/sys_master/root/20220601/SNMZ/6296f8a5f997dd03e25648b6/-473Wx593H-441143086-grey-MODEL.jpg"
+    },
+    {
+      "id": 14,
+      "pname": "GULMOHAR JAIPUR ",
+      "pdescription": "Floral Print Flared Kurta",
+      "gender": "WOMEN",
+      "type": "VARIABLESIZE",
+      "size": [
+        "M",
+        "L"
+      ],
+      "price": "949",
+      "quantity": "10",
+      "img": "https://assets.ajio.com/medias/sys_master/root/20220322/zZrx/6239e35bf997dd03e22576a3/-473Wx593H-464052912-navy-MODEL.jpg"
+    },
+    {
+      "id": 15,
+      "pname": "ANJANEYA SAREES ",
+      "pdescription": "Kanjeevaram Weave Traditional Saree",
+      "gender": "WOMEN",
+      "type": "FIXEDSIZE",
+      "size": "FS",
+      "price": "1170",
+      "quantity": "10",
+      "img": "https://assets.ajio.com/medias/sys_master/root/20220906/mn2O/63167f27aeb269dbb3702c22/-473Wx593H-464944863-blue-MODEL.jpg"
+    },
+    {
+      "id": 16,
+      "pname": "AFSANA ",
+      "pdescription": "Indian Semi-stitched Anarkali",
+      "gender": "WOMEN",
+      "type": null,
+      "size": [
+        "L",
+        "XL"
+      ],
+      "price": "2015",
+      "quantity": "20",
+      "img": "https://assets.ajio.com/medias/sys_master/root/20220902/tkCe/6311fa4cf997dd1f8dd8997e/afsana-beige-semi-stitched-anarkali-embroidered-semi-stitched-anarkali-dress-material.jpg"
+    }
+  ],
+  "users": [
+    {
+      "username": "Shrikanth P",
+      "useremail": "shrikanthchoudary05@gmail.com",
+      "password": "shri@123",
+      "mobile": "8865423479",
+      "id": 1
+    },
+    {
+      "username": "shri",
+      "useremail": "shrikanthchoudary5@gmail.com",
+      "password": "shri@123",
+      "mobile": "9856785745",
+      "id": 2
+    }
+  ],
+  "cart": [
+    {
+      "pid": 11,
+      "pname": "DENNISLINGO PREMIUM ATTIRE ",
+      "pdescription": "Checked Slim Fit Shirt",
+      "price": "700",
+      "img": "https://assets.ajio.com/medias/sys_master/root/h1d/h2e/15885260521502/-473Wx593H-461119105-blue-MODEL.jpg",
+      "quantity": 1,
+      "id": 1
+    },
+    {
+      "pid": 16,
+      "pname": "AFSANA ",
+      "pdescription": "Indian Semi-stitched Anarkali",
+      "price": "2015",
+      "img": "https://assets.ajio.com/medias/sys_master/root/20220902/tkCe/6311fa4cf997dd1f8dd8997e/afsana-beige-semi-stitched-anarkali-embroidered-semi-stitched-anarkali-dress-material.jpg",
+      "quantity": 1,
+      "id": 2
+    },
+    {
+      "pid": 11,
+      "pname": "DENNISLINGO PREMIUM ATTIRE ",
+      "pdescription": "Checked Slim Fit Shirt",
+      "price": "700",
+      "img": "https://assets.ajio.com/medias/sys_master/root/h1d/h2e/15885260521502/-473Wx593H-461119105-blue-MODEL.jpg",
+      "quantity": 1,
+      "id": 3
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
