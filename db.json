@@ -58,6 +58,21 @@
       "img": "https://assets.ajio.com/medias/sys_master/root/20210903/NjYB/613132cc7cdb8cb8241488e4/kb_team_spirit_blue_novelty_print_shirt_with_patch_pocket.jpg"
     },
     {
+      "id": 6,
+      "pname": "POINT COVE ",
+      "pdescription": "Knit High-Neck Pullover",
+      "gender": "KIDS",
+      "type": "BOYS",
+      "size": [
+        "2-4Y",
+        "4-6Y",
+        "6-8Y"
+      ],
+      "price": "270",
+      "quantity": "20",
+      "img": "https://assets.ajio.com/medias/sys_master/root/20211112/F8lf/618e872aaeb2690110c25770/point_cove_turquoise_blue_knit_high-neck_pullover.jpg"
+    },
+    {
       "id": 10,
       "pname": "PSPEACHES ",
       "pdescription": "Floral Print Tiered Skirt",
