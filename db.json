@@ -170,6 +170,13 @@
       "password": "shri@123",
       "mobile": "9856785745",
       "id": 2
+    },
+      {
+      "username": "admin",
+      "useremail": "admin@gmail.com",
+      "password": "admin@123",
+      "mobile": "9856784312",
+      "id": 3
     }
   ],
   "cart": [
